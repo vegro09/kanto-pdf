@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage EN -->
+  <url>
+    <loc>https://kantopdf.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kantopdf.com/en/"/>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Homepage AR -->
+  <url>
+    <loc>https://kantopdf.com/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kantopdf.com/en/"/>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 30 Tools EN & AR -->
+  <url>
+    <loc>https://kantopdf.com/en/merge-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/merge-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/merge-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/merge-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/merge-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/merge-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/split-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/split-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/split-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/split-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/split-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/split-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/compress-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/compress-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/compress-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/compress-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/compress-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/compress-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/pdf-to-word</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-word"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-word"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/pdf-to-word</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-word"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-word"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/pdf-to-powerpoint</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-powerpoint"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-powerpoint"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/pdf-to-powerpoint</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-powerpoint"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-powerpoint"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/pdf-to-excel</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-excel"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-excel"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/pdf-to-excel</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-excel"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-excel"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/word-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/word-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/word-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/word-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/word-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/word-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/powerpoint-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/powerpoint-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/powerpoint-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/powerpoint-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/powerpoint-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/powerpoint-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/excel-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/excel-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/excel-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/excel-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/excel-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/excel-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/edit-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/edit-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/edit-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/edit-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/edit-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/edit-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/pdf-to-jpg</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-jpg"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-jpg"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/pdf-to-jpg</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-jpg"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-jpg"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/jpg-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/jpg-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/jpg-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/jpg-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/jpg-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/jpg-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/sign-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/sign-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/sign-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/sign-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/sign-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/sign-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/watermark-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/watermark-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/watermark-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/watermark-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/watermark-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/watermark-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/rotate-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/rotate-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/rotate-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/rotate-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/rotate-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/rotate-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/html-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/html-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/html-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/html-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/html-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/html-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/unlock-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/unlock-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/unlock-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/unlock-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/unlock-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/unlock-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/protect-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/protect-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/protect-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/protect-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/protect-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/protect-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/organize-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/organize-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/organize-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/organize-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/organize-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/organize-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/pdf-to-pdfa</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-pdfa"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-pdfa"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/pdf-to-pdfa</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-to-pdfa"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-to-pdfa"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/repair-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/repair-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/repair-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/repair-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/repair-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/repair-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/page-numbers</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/page-numbers"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/page-numbers"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/page-numbers</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/page-numbers"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/page-numbers"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/scan-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/scan-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/scan-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/scan-to-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/scan-to-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/scan-to-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/ocr-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/ocr-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/ocr-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/ocr-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/ocr-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/ocr-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/compare-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/compare-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/compare-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/compare-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/compare-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/compare-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/redact-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/redact-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/redact-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/redact-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/redact-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/redact-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/crop-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/crop-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/crop-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/crop-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/crop-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/crop-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/pdf-forms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-forms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-forms"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/pdf-forms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/pdf-forms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/pdf-forms"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/ai-summarizer</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/ai-summarizer"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/ai-summarizer"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/ai-summarizer</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/ai-summarizer"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/ai-summarizer"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kantopdf.com/en/translate-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/translate-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/translate-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kantopdf.com/ar/translate-pdf</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kantopdf.com/en/translate-pdf"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://kantopdf.com/ar/translate-pdf"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>

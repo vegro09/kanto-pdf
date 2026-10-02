@@ -1,0 +1,65 @@
+import type { ComponentType } from 'react';
+import {
+  Layers,
+  Scissors,
+  Minimize2,
+  FileType2,
+  Presentation,
+  Sheet,
+  FileText,
+  FileSpreadsheet,
+  Table,
+  PenTool,
+  Image,
+  Images,
+  Feather,
+  Stamp,
+  RotateCw,
+  Code2,
+  Unlock,
+  Lock,
+  Grid,
+  Archive,
+  Wrench,
+  Binary,
+  Scan,
+  EyeOff,
+  Crop,
+  CheckSquare,
+  type LucideProps,
+} from 'lucide-react';
+
+export type ToolIconComponent = ComponentType<LucideProps>;
+
+export const TOOL_ICON_MAP: Record<string, ToolIconComponent> = {
+  Layers,
+  Scissors,
+  Minimize2,
+  FileType2,
+  Presentation,
+  Sheet,
+  FileText,
+  FileSpreadsheet,
+  Table,
+  PenTool,
+  Image,
+  Images,
+  Feather,
+  Stamp,
+  RotateCw,
+  Code2,
+  Unlock,
+  Lock,
+  Grid,
+  Archive,
+  Wrench,
+  Binary,
+  Scan,
+  EyeOff,
+  Crop,
+  CheckSquare,
+};
+
+export const getToolIcon = (name: string): ToolIconComponent => {
+  return TOOL_ICON_MAP[name] || FileText;
+};
